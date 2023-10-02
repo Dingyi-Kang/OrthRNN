@@ -2,7 +2,7 @@
 
 Four programs are uploaded into this repo. They are combinations of two types of RNN (original vs orthogonalized) and two types of tasks (NLP vs time-series forecasting)
 
-Note: the main difference between original RNN and its correpsonding orthgonalized verions is the orthogonalization function in the sdg function in the rnn class is commented out. If you remove the comment symbols, these models will behave the same.
+Note: the main difference between original RNN and its orthgonalized cpunterpart is the orthogonalization function in the sdg function in the rnn class is commented out. If you remove the comment symbols, these models will behave the same.
 
 <img width="827" alt="image" src="https://github.com/Dingyi-Kang/OrthRNN/assets/81428296/ac5d4c8e-1f27-4052-98d2-3ad97ec6aa4d">
 <img width="818" alt="image" src="https://github.com/Dingyi-Kang/OrthRNN/assets/81428296/1687fc2d-d427-4545-8cb1-d0d8bd3a642b">
