@@ -8,7 +8,8 @@ Note: the main difference between original RNN and its orthgonalized cpunterpart
 <img width="827" alt="image" src="https://github.com/Dingyi-Kang/OrthRNN/assets/81428296/ac5d4c8e-1f27-4052-98d2-3ad97ec6aa4d">
 <img width="818" alt="image" src="https://github.com/Dingyi-Kang/OrthRNN/assets/81428296/1687fc2d-d427-4545-8cb1-d0d8bd3a642b">
 <img width="780" alt="image" src="https://github.com/Dingyi-Kang/OrthRNN/assets/81428296/4548d76c-7519-4b94-9cbe-80f33f50ee30">
-<img width="684" alt="image" src="https://github.com/Dingyi-Kang/OrthRNN/assets/81428296/de21f379-6afe-4feb-bc0e-3fbd6ebfdf27">
+<img width="858" alt="image" src="https://github.com/Dingyi-Kang/OrthRNN/assets/81428296/ee424cb5-8b08-4faa-bd20-81bc539fe255">
+
 
 ## Experiments Results
 <img width="743" alt="image" src="https://github.com/Dingyi-Kang/OrthRNN/assets/81428296/625aaf72-631d-4e8e-abdb-f4043f2bbffa">
