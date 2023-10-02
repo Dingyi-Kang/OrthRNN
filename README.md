@@ -1,4 +1,4 @@
-# OrthRNN
+# The Exploration of the Potential of OrthRNN
 
 Four files will be uploaded into this repo. They are combinations of two types of RNN (original vs orthogonalized) and two types of tasks (NLP vs time-series forecasting)
 
