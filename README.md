@@ -22,8 +22,7 @@ Note: the main difference between original RNN and its orthgonalized cpunterpart
 <img width="885" alt="image" src="https://github.com/Dingyi-Kang/OrthRNN/assets/81428296/29f351e4-60fb-4749-b493-081bf0a72f70">
 
 ## Discussion
-<img width="772" alt="image" src="https://github.com/Dingyi-Kang/OrthRNN/assets/81428296/e5fc4882-969a-46a7-bca9-3d6ffda8f474">
-
+<img width="803" alt="image" src="https://github.com/Dingyi-Kang/OrthRNN/assets/81428296/a8ddc258-5d12-4546-882e-ecc2fe97743e">
 
 
 
